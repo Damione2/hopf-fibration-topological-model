@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23087839.svg)](https://doi.org/10.5281/zenodo.23087839)
 # Topological Field Model Based on Hopf Fibration and Beltrami States
 
 **Author:** Damyan Damyanov  
